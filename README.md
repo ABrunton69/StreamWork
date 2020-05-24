@@ -9,3 +9,9 @@ Added the feature for the virtual assistant to record audio sent from the user i
 
 #  21:10PM BST
 Added Response feature for the virtual assistant using an mp3 file and added first command asking how are you.
+
+# 21:30PM BST
+Added a time command with response
+
+# 21:50PM BST
+Added a date command with response
